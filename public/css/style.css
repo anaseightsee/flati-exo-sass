@@ -58,4 +58,29 @@ header ul li span {
   font-size: 0.75em;
 }
 
+footer {
+  background-color: #495bbe;
+}
+
+footer p, h5, li {
+  opacity: 0.5;
+}
+
+footer p {
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+footer ul li button .fab {
+  font-size: 2em;
+}
+
+footer .copyright {
+  background-color: #3a3a49;
+}
+
+footer .copyright p {
+  opacity: 0.5;
+}
+
 /*# sourceMappingURL=style.css.map */
