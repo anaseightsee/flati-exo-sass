@@ -33,4 +33,29 @@ header ul li span {
   color: #3497d0;
 }
 
+.container .row .col {
+  background-color: #e1e1df;
+}
+
+.container .row .col a {
+  border-radius: 100%;
+  padding-bottom: 20px;
+}
+
+.container .row .col-2 img {
+  width: 100%;
+}
+
+.container .row .col-6 p {
+  font-size: 0.75em;
+}
+
+.container .row .col-2 {
+  background-color: #3d4361;
+}
+
+.container .row .col-2 p {
+  font-size: 0.75em;
+}
+
 /*# sourceMappingURL=style.css.map */
