@@ -19,4 +19,18 @@ header ul li span {
   width-background-repeat: no-repeat;
 }
 
+.jumbotron p {
+  font-size: 1.5em;
+  padding-left: 10em;
+  padding-right: 10em;
+}
+
+.jumbotron p .text-light {
+  background-color: #3497d0;
+}
+
+.jumbotron p span {
+  color: #3497d0;
+}
+
 /*# sourceMappingURL=style.css.map */
